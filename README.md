@@ -1,4 +1,4 @@
-# Sistema  de  cadastro  de  jogos 
+# Sistem  de  cadastro  de  jogos 
 
 > Status do projeto: Em desenvolvimento
 
